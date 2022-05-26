@@ -8,6 +8,7 @@ namespace CodeWarsSolutions
         {
             Console.WriteLine("Hello World! Pasha!");
             Console.WriteLine("Lol");
+            Console.WriteLine("Lol2");
             Console.ReadLine();
         }
     }
